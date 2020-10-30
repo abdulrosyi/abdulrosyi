@@ -1,19 +1,21 @@
-# Hi there 👋, i'm Abdul
+## Abdul Rosyi - @abdulrosyi
 
-- 🌱 I’m currently learning ...
+Hi there 👋, i'm Abdul Rosyi Mobile Developer from Jakarta, Indonesia
 
 
-<!--
-**abdulrosyi/abdulrosyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌱 I’m currently learning ...
+- Flutter
+- Java
+  
+  <p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulrosyi&show_icon=true" alt="abdulrosyi" />
+  </p>
+  
+  <p align="center">
+  <a href="https://linkedin.com/in/abdul-rosyi-9764861b6" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30" /></a>
+  <a href="https://instagram.com/abdulrosyi_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="30" width="30" /></a>
+  <a href="https://twitter.com/abdulrosyi_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="30" width="30" /></a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to reach me:
+- 📧 abdul.rosyi16@gmail.com
