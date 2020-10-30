@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi there 👋, i'm Abdul
+
+- 🌱 I’m currently learning ...
+
 
 <!--
 **abdulrosyi/abdulrosyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
